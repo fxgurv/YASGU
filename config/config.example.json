@@ -4,7 +4,7 @@
   "threads": 4,
 
   "assembly_ai_api_key": "xx",
-  "imagemagick_path": "/usr/bin/magick",
+  "imagemagick_path": "/usr/bin/convert",
 
   "generators": [
     {
