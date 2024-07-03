@@ -4,7 +4,7 @@
   "threads": 4,
 
   "assembly_ai_api_key": "xx",
-  "imagemagick_path": "C:\\Program Files\\ImageMagick\\magick.exe",
+  "imagemagick_path": "/usr/bin/magick",
 
   "generators": [
     {
@@ -23,7 +23,7 @@
       "subtitles_font_outline_color": "black",
       "subtitles_font_outline_thickness": 2,
       "audio_song_volume": 0.1,
-      "firefox_profile": "C:\\Users\\Administrateur\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\xxxx"
+      "firefox_profile": "/home/username/.mozilla/firefox/xxxx"
     },
     {
       "id": 2,
@@ -41,7 +41,7 @@
       "subtitles_font_outline_color": "black",
       "subtitles_font_outline_thickness": 2,
       "audio_song_volume": 0.1,
-      "firefox_profile": "C:\\Users\\Administrateur\\AppData\\Roaming\\Mozilla\\Firefox\\Profiles\\xxxx"
+      "firefox_profile": "/home/username/.mozilla/firefox/xxxx"
     }
   ]
 }
