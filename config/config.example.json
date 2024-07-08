@@ -2,15 +2,13 @@
   "verbose": true,
   "headless": true,
   "threads": 1,
-
   "assembly_ai_api_key": "e9c253a938184370becdf77f2a9e6a45",
   "imagemagick_path": "/usr/bin/convert",
-
   "generators": [
     {
       "id": 1,
       "language": "English",
-      "subject": "Facts about a random animal",
+      "subject": "",
       "llm": "claude_3_sonnet",
       "image_prompt_llm": "llama2_70b",
       "image_model": "lexica",
@@ -23,12 +21,12 @@
       "subtitles_font_outline_color": "black",
       "subtitles_font_outline_thickness": 2,
       "audio_song_volume": 0.1,
-      "firefox_profile": "/home/user/.mozilla/firefox/2fjwq01v.default-release"
+      "firefox_profile": ""
     },
     {
       "id": 2,
       "language": "English",
-      "subject": "Love quotes",
+      "subject": "",
       "llm": "claude_3_sonnet",
       "image_prompt_llm": "llama2_70b",
       "image_model": "lexica",
@@ -41,7 +39,7 @@
       "subtitles_font_outline_color": "black",
       "subtitles_font_outline_thickness": 2,
       "audio_song_volume": 0.1,
-      "firefox_profile": "/home/user/.mozilla/firefox/2fjwq01v.default-release"
+      "firefox_profile": ""
     }
   ]
 }
