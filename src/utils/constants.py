@@ -1,6 +1,3 @@
-"""
-This file contains all the constants used in the program.
-"""
 import g4f
 
 # YouTube Section
